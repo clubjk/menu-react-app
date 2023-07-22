@@ -1,0 +1,13 @@
+.menu-item {
+  position: relative;
+}
+
+.item-price {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #fff;
+  padding: 0.25rem 0.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
